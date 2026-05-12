@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3> Registration form </h3>
+<form>
+Email:<input type="email" placeholder="enter your email"><br><br>
+phone:<input type="number" placeholder="enter your phone number"><br><br>
+</form>
+</body>
+</html>
